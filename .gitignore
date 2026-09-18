@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Archivos compilados o temporales
+dist/
+build/
+*.js
+*.js.map
+
+# Entorno y credenciales (¡Muy importante para la base de datos!)
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.log
